@@ -26,13 +26,87 @@ Page 4 (Gallery)
     - A label for each image
     - Clicking on the image opens the source of that image in a new window
 
-
-Nav bar:
+CSS:
     Home (index.html)
         - Information about the
+        - Nav bar:
+            Background colour: #0E34A0
+            Logo: snowflake image
+            Font: Libre Franklin
+            Font size: 1em?
+            Colour: #F7F7F9
+        - H1:
+            Font: Libre Franklin
+            Colour: #2EC4B6
+        - H2:
+            Font: Libre Franklin
+            Weight: semi-bold
+            Colour: #89A1EF
+        - P:
+            Font: Libre Baskerville
+            Colour: #090C08
+        - html:
+            Background colour: #F7F7F9
+
     Resources (resources.html)
         - Resources to learn more about
+        - Nav bar:
+            Background colour: #0E34A0
+            Logo: snowflake image
+            Font: Libre Franklin
+            Font size: 1em?
+            Colour: #F7F7F9
+        - H1:
+            Font: Libre Franklin
+            Colour: #2EC4B6
+        - H2:
+            Font: Libre Franklin
+            Weight: semi-bold
+            Colour: #89A1EF
+        - P:
+            Font: Libre Baskerville
+            Colour: #090C08
+        - html:
+            Background colour: #F7F7F9
+        - a:
+            Unclicked: #0E34A0
+            Clicked: #2EC4B6
     Gallery (gallery.html)
         - Show images
+                - Nav bar:
+            Background colour: #0E34A0
+            Logo: snowflake image
+            Font: Libre Franklin
+            Font size: 1em?
+            Colour: #F7F7F9
+        - H1:
+            Font: Libre Franklin
+            Colour: #2EC4B6
+        - H2:
+            Font: Libre Franklin
+            Weight: semi-bold
+            Colour: #89A1EF
+        - P:
+            Font: Libre Baskerville
+            Colour: #090C08
+        - html:
+            Background colour: #F7F7F9
     Contact (contact.html)
         - Static form, 'contact' with any queries
+                - Nav bar:
+            Background colour: #0E34A0
+            Logo: snowflake image
+            Font: Libre Franklin
+            Font size: 1em?
+            Colour: #F7F7F9
+        - H1:
+            Font: Libre Franklin
+            Colour: #2EC4B6
+        - P:
+            Font: Libre Baskerville
+            Colour: #090C08
+        - html:
+            Background colour: #F7F7F9
+        - a:
+            Unclicked: #0E34A0
+            Clicked: #2EC4B6

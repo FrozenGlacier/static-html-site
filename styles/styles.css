@@ -1,0 +1,21 @@
+h1 {
+    color: #89A1EF;
+}
+
+h2 {
+    color: #2EC4B6;
+}
+
+.navbar
+{
+    list-style: none;
+}
+
+.navbar
+{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
